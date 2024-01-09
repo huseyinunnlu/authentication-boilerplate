@@ -1,0 +1,16 @@
+node_modules/
+logs/
+*.log
+*.pid
+lib-cov/
+coverage/
+.nyc_output/
+.grunt/
+.vscode/
+.DS_Store
+Thumbs.db
+.idea/
+.lock-wscript
+build/Release
+.env*
+!.env.example
